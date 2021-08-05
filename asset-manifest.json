@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/alexiglesiasmartinez/temperature-app/static/css/main.d8ef20a2.chunk.css",
+    "main.js": "/alexiglesiasmartinez/temperature-app/static/js/main.d30802ae.chunk.js",
+    "main.js.map": "/alexiglesiasmartinez/temperature-app/static/js/main.d30802ae.chunk.js.map",
+    "runtime-main.js": "/alexiglesiasmartinez/temperature-app/static/js/runtime-main.16969a71.js",
+    "runtime-main.js.map": "/alexiglesiasmartinez/temperature-app/static/js/runtime-main.16969a71.js.map",
+    "static/js/2.bcc7407f.chunk.js": "/alexiglesiasmartinez/temperature-app/static/js/2.bcc7407f.chunk.js",
+    "static/js/2.bcc7407f.chunk.js.map": "/alexiglesiasmartinez/temperature-app/static/js/2.bcc7407f.chunk.js.map",
+    "static/js/3.4711ee4e.chunk.js": "/alexiglesiasmartinez/temperature-app/static/js/3.4711ee4e.chunk.js",
+    "static/js/3.4711ee4e.chunk.js.map": "/alexiglesiasmartinez/temperature-app/static/js/3.4711ee4e.chunk.js.map",
+    "index.html": "/alexiglesiasmartinez/temperature-app/index.html",
+    "static/css/main.d8ef20a2.chunk.css.map": "/alexiglesiasmartinez/temperature-app/static/css/main.d8ef20a2.chunk.css.map",
+    "static/js/2.bcc7407f.chunk.js.LICENSE.txt": "/alexiglesiasmartinez/temperature-app/static/js/2.bcc7407f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/alexiglesiasmartinez/temperature-app/static/media/weather.c85a30cf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16969a71.js",
+    "static/js/2.bcc7407f.chunk.js",
+    "static/css/main.d8ef20a2.chunk.css",
+    "static/js/main.d30802ae.chunk.js"
+  ]
+}
